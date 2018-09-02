@@ -11,6 +11,7 @@
     <modules>
         <module>user-service</module>
         <module>eureka-sever</module>
+        <module>api-gateway</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
