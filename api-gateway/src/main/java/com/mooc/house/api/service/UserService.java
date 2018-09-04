@@ -15,6 +15,6 @@ public class UserService {
     private UserDao userDao;
 
     public RestResponse getTestUerName(long id){
-        return  userDao.getUserName(id);
+        return  null;
     }
 }
